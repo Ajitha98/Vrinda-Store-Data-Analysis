@@ -16,7 +16,7 @@ The Vrinda Store wants to create an anuual sales report for 2022. So that, the o
 * Highest selling category?
 
 # Dashboard
-
+(https://github.com/Ajitha98/Vrinda-Store-Data-Analysis/blob/main/Screenshot%20(295).png)
 
 # Process
 * Verify data for any missing values and anomalies, and sort out the same.
